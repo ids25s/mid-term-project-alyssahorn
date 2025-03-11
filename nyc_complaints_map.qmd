@@ -1,0 +1,7 @@
+---
+title: "NYC Complaints Map"
+format:
+  html:
+    embed-resources: true
+include-after-body: nyc_map.html
+---
